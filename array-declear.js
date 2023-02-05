@@ -36,3 +36,32 @@
 //     }
 
 // }
+
+
+
+// function gunNumber(){
+//     const num1 = 58;
+//  const num2 = 65;
+//  const num3 = 80;
+ 
+//  const totalNumber = num1 * num2 * num3;
+ 
+//  return totalNumber;
+// }
+
+ 
+// const totalNumber = gunNumber();
+// console.log(totalNumber);
+
+
+
+const student = {
+    name :'sawon hossain',
+    roll : 09,
+    class : 05 
+}
+if(student.roll < 11  ){
+    console.log(student.roll);
+}
+console.log(student);
+
